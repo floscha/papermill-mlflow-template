@@ -1,0 +1,6 @@
+.env/
+.ipynb_checkpoints/
+__pycache__/
+mlruns/
+results/
+
